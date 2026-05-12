@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+inference examples/
+Renoir/
+SIDD_Small_sRGB_Only/
+.ipynb_checkpoints/
+
+*.ckpt
+*.h5
+*.dll
+*.pyd
+*.bmp
+*.data-00000-of-00001
+*.tempstate*
